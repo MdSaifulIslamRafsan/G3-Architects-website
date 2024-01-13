@@ -244,14 +244,23 @@ main {
   justify-content: space-evenly;
   margin-top: 100px;
   gap: 40px;
+  margin-bottom: 100px;
 }
 .Sponsors-company-logo img{
   mix-blend-mode: luminosity;
   max-width: 100px;
   height: 50px;
 }
-
-
+/* footer area styles */
+footer{
+  border-radius: 8px;
+  background: #FFF4E7;
+}
+footer p{
+  text-align: center;
+  padding: 20px 0;
+  margin-bottom: 50px;
+}
 
 
 
